@@ -1,0 +1,15 @@
+CSS
+--use rgba(R,G ,B, transparency) to also show transparency
+
+
+
+CSS Box model
+--all html elements can be seem like boxes;https://bit.ly/2Kd5Fi8
+--padding and margin is pre defined
+--box-sizing; if we set it to border box to height and width; it will be defined for the entire box
+
+-block elements will use the full width of the browser line breaks; example: <p> <title>
+-inline elements such as bold and underline
+
+
+
