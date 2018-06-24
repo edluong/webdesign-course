@@ -11,5 +11,15 @@ CSS Box model
 -block elements will use the full width of the browser line breaks; example: <p> <title>
 -inline elements such as bold and underline
 
+basic layout
+--use margin-left: auto adn margin-right: auto; to center the information 
 
+usual steps is the following:
+-create a container class
+-have a div for a blog section
+-have another section for more blogs section
+-have a section for authors
 
+Chrome Developer Tool
+-can toggle on and off the css properties
+-can inspect elements by using right click > inspect
